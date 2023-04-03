@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Julian Ignacio Caloggi</h1>
-<h3 align="center">Soy un programador full Stack</h3>
+<h3 align="center">Soy un programador Full Stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliancaloggi&label=Profile%20views&color=0e75b6&style=flat" alt="juliancaloggi" /> </p>
 
